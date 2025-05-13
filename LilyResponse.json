@@ -2,7 +2,7 @@
     {
         "prompt": ["hi", "hello"],
         "response": [
-            "{<hasrole 1370812141606801510> ? Welcome, VIP user! : Hello there!}",
+            "{<hasrole 1370812141606801510> ? Welcome, VIP user! : Hello {user.name}!}",
             "{<isuser 845511381637529641> ? Hello, special user! : Hey!}"
         ],
         "required_words": ["hi", "hello"],
