@@ -1,9 +1,11 @@
-{
-        "prompt": ["got", "scammed"],
-        "response": ["Match"],
-        "required_words": ["got", "scammed"],
-        "neglect_words" : ["not", "didn't", "did not"],
-        "channel_to_respond" : 1370395716106588241,
-        "delete_message" : "False",
-		"emoji_to_react" : ["😭"]
-}
+[
+	{
+	        "prompt": ["got", "scammed"],
+	        "response": ["Match"],
+	        "required_words": ["got", "scammed"],
+	        "neglect_words" : ["not", "didn't", "did not"],
+	        "channel_to_respond" : 1370395716106588241,
+	        "delete_message" : "False",
+			"emoji_to_react" : ["😭"]
+	}
+]
