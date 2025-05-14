@@ -15,7 +15,7 @@
     {
         "prompt": ["cannot", "send", "message", "trading", "trade", "can't"],
         "response": ["Matched"],
-        "required_words": ["cannot", "send", "message"],
+        "required_words": ["send", "message"],
         "neglect_words": ["can"],
         "channel_to_respond": 1349753791704072313,
         "delete_message": "False",
