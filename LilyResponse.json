@@ -13,7 +13,7 @@
     },
 
     {
-        "prompt": ["cannot", "send", "message", "trading", "trade", "can't"]
+        "prompt": ["cannot", "send", "message", "trading", "trade", "can't"],
         "response": ["Matched"],
         "required_words": ["cannot", "send", "message"],
         "neglect_words": ["can"],
