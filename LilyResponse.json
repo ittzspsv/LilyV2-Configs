@@ -10,7 +10,7 @@
         "channel_to_respond": 1349753791704072313,
         "delete_message": "False",
         "emoji_to_react": [""]
-    }
+    },
 
     {
         "prompt": ["cannot", "send", "message", "trading", "trade", "can't"]
