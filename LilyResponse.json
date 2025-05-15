@@ -33,23 +33,5 @@
         "emoji_to_react": [
             ""
         ]
-    },
-
-    {
-        "prompt": [
-            "re:<:(\\w+):(\\d+)>"
-        ],
-        "response": [
-            "Get your level to 1 to start trading",
-            "Seems like you got no levels. get levels to chat in trading my guy",
-            "Bro, get some levels to chat in trading"
-        ],
-        "required_words": [],
-        "neglect_words": [],
-        "channel_to_respond": 1349753791704072313,
-        "delete_message": "False",
-        "emoji_to_react": [
-            ""
-        ]
     }
 ]
