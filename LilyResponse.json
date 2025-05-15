@@ -1,24 +1,37 @@
 [
     {
-        "prompt": ["hello"],
+        "prompt": [
+            "hello"
+        ],
         "response": [
             "{<isuser 845511381637529641> ? Hello Developer! : Hello {user.name}!}",
             "{<isuser 845511381637529641> ? Yoo Developer! : Hey!}"
         ],
-        "required_words": ["hello"],
+        "required_words": [
+            "hello"
+        ],
         "neglect_words": [],
         "channel_to_respond": 1349753791704072313,
         "delete_message": "False",
-        "emoji_to_react": [""]
+        "emoji_to_react": [
+            ""
+        ]
     },
-
     {
-        "prompt": ["i can't send message in trading channel"],
-        "response": ["Get your level to 1 to start trading", "Seems like you got no levels. get levels to chat in trading my guy", "Bro, get some levels to chat in trading"],
+        "prompt": [
+            "re:\\b(?:bro\\s+)?(?:i\\s+)?(?:can't|cannot|can\\s*not|am\\s+unable\\s+to|won't\\s+be\\s+able\\s+to|unable\\s+to|fail(?:ed|ing)?\\s+to|not\\s+able\\s+to)\\s+(?:trade|send(?:\\s+\\w+){0,5}?\\s+message(?:s)?)(?:\\s+(?:in|to|at|on|within))?(?:\\s+the)?\\s+(?:trading|trade)\\s+channel\\b"
+        ],
+        "response": [
+            "Get your level to 1 to start trading",
+            "Seems like you got no levels. get levels to chat in trading my guy",
+            "Bro, get some levels to chat in trading"
+        ],
         "required_words": [],
         "neglect_words": [],
         "channel_to_respond": 1349753791704072313,
         "delete_message": "False",
-        "emoji_to_react": [""]
+        "emoji_to_react": [
+            ""
+        ]
     }
 ]
