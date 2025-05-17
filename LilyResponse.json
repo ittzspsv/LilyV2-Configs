@@ -15,7 +15,8 @@
         "delete_message": "False",
         "emoji_to_react": [
             ""
-        ]
+        ],
+        "media" : ["gif=https://tenor.com/view/hi-hello-greet-smile-wave-gif-17222872"]
     },
     {
         "prompt": [
@@ -32,6 +33,7 @@
         "delete_message": "False",
         "emoji_to_react": [
             ""
-        ]
+        ],
+        "media" : []
     }
 ]
