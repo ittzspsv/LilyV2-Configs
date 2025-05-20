@@ -13,10 +13,10 @@
         "neglect_words": [],
         "channel_to_respond": 1349753791704072313,
         "delete_message": "False",
-        "emoji_to_react": [
-            ""
-        ],
-        "media" : ["gif=https://tenor.com/view/hi-hello-greet-smile-wave-gif-17222872"]
+        "emoji_to_react": [""],
+        "media": [
+            "gif=https://tenor.com/view/hi-hello-greet-smile-wave-gif-17222872"
+        ]
     },
     {
         "prompt": [
@@ -31,14 +31,10 @@
         "neglect_words": [],
         "channel_to_respond": 1324581275276935283,
         "delete_message": "False",
-        "emoji_to_react": [
-            ""
-        ],
-        "media" : []
+        "emoji_to_react": [""],
+        "media": []
     },
     {
-        "prompt": [
-            "re:{
         "prompt": [
             "re:<:(\\w+):(\\d+)>"
         ],
@@ -51,24 +47,7 @@
         "neglect_words": [],
         "channel_to_respond": 1324581275276935283,
         "delete_message": "True",
-        "emoji_to_react": [
-            ""
-        ],
-        "media" : []
-    }"
-        ],
-        "response": [
-            "Get your level to 1 to start using <#1324593527996285039>",
-            "Seems like you got no levels. get levels to chat in <#1324593527996285039> my guy",
-            "Bro, get some levels to chat in <#1324593527996285039>"
-        ],
-        "required_words": [],
-        "neglect_words": [],
-        "channel_to_respond": 1324581275276935283,
-        "delete_message": "False",
-        "emoji_to_react": [
-            ""
-        ],
-        "media" : []
+        "emoji_to_react": [""],
+        "media": []
     }
 ]
