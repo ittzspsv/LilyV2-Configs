@@ -33,5 +33,21 @@
         "delete_message": "False",
         "emoji_to_react": [""],
         "media": []
+    },
+    {
+        "prompt": [
+            "re:\\"(?:TradePointer)\\":\\s*\\[.*?<:point_trade:1324867813067984986>.*?\\]|\\\"[^\"]+\\\":\\s*\\[.*?<:point_trade:1324867813067984986>.*?\\](?=,?\\s*\\\"TradePointer\\\")"
+        ],
+        "response": [
+            "Don't trade in <#1324593527996285039>",
+             "Trading is not allowed in <#1324593527996285039>.",
+            "Hey!.  don't trade here"
+        ],
+        "required_words": [],
+        "neglect_words": [],
+        "channel_to_respond": 1324581275276935283,
+        "delete_message": "True",
+        "emoji_to_react": [""],
+        "media": []
     }
 ]
