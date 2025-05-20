@@ -36,12 +36,12 @@
     },
     {
         "prompt": [
-            "re:\\<:point_trade:1324867813067984986\\>"
+            "re:\\\\(?:[a-zA-Z]+|\\d+)?<:point_trade:1324867813067984986>(?:[a-zA-Z]+|\\d+)?"
         ],
         "response": [
-            "Don't trade in <#1324593527996285039>",
-             "Trading is not allowed in <#1324593527996285039>.",
-            "Hey!.  don't trade here"
+            "Don't trade in <#1324593527996285039> Use <#1324593527996285039>",
+             "Trading is not allowed in <#1324593527996285039>. Use <#1324593527996285039>",
+            "Hey!.  don't trade here.  Use <#1324593527996285039>"
         ],
         "required_words": [],
         "neglect_words": [],
