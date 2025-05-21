@@ -1,26 +1,7 @@
 [
     {
         "prompt": [
-            "hello"
-        ],
-        "response": [
-            "{<isuser 845511381637529641> ? Hello Developer! : Hello {user.name}!}",
-            "{<isuser 845511381637529641> ? Yoo Developer! : Hey!}"
-        ],
-        "required_words": [
-            "hello"
-        ],
-        "neglect_words": [],
-        "channel_to_respond": 1349753791704072313,
-        "delete_message": "False",
-        "emoji_to_react": [""],
-        "media": [
-            "gif=https://tenor.com/view/hi-hello-greet-smile-wave-gif-17222872"
-        ]
-    },
-    {
-        "prompt": [
-            "re:\\b(?:bro\\s+)?(?:i\\s+)?(?:can'?t|cannot|can\\s*not|am\\s+unable\\s+to|won'?t\\s+be\\s+able\\s+to|unable\\s+to|fail(?:ed|ing)?\\s+to|not\\s+able\\s+to)\\s+(?:trade|send(?:\\s+\\w+){0,5}?\\s+message(?:s)?)\\b"
+            "re = r"\\b(?:can'?t|cannot|can\\s*not|am\\s+unable\\s+to|won'?t\\s+be\\s+able\\s+to|unable\\s+to|fail(?:ed|ing)?\\s+to|not\\s+able\\s+to)\\s+(?:(?:access|acess)\\s+)?(?:trade|trading|send(?:\\s+\\w+){0,5}?\\s+message(?:s)?)\\b"
         ],
         "response": [
             "Get your level to 1 to start using <#1324593527996285039>",
