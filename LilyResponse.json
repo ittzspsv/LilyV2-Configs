@@ -36,7 +36,7 @@
     },
     {
         "prompt": [
-            "re:(?:[a-zA-Z]+|\\d+)?<:point_trade:\\d{19}>(?:[a-zA-Z]+|\\d+)?"
+            "re:(?:[a-zA-Z]+|\\d+)?(?:<:point_trade:\\d{19}>|👉)(?:[a-zA-Z]+|\\d+)?"
 
         ],
         "response": [
