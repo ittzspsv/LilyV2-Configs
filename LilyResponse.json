@@ -40,6 +40,11 @@
       "You should not promote your service in <#1324581275276935283>. use <#1324748584054292541> or <#1324749521804333137>",
       "Not allowed to promote your service here use <#1324748584054292541> or <#1324749521804333137>"
     ],
-    "delete_message": "True"
+    "required_words": [],
+    "neglect_words": [],
+    "channel_to_respond": 1324581275276935283,
+    "delete_message": "True",
+    "emoji_to_react": [""],
+    "media": []
   }
 ]
