@@ -1,47 +1,45 @@
 [
-    {
-        "prompt": [
-            "re:\\b(?:can'?t|cannot|can\\s*not|am\\s+unable\\s+to|won'?t\\s+be\\s+able\\s+to|unable\\s+to|fail(?:ed|ing)?\\s+to|not\\s+able\\s+to)\\s+(?:(?:access|acess)\\s+)?(?:trade|trading|send(?:\\s+\\w+){0,5}?\\s+message(?:s)?)\\b"
-        ],
-        "response": [
-            "Get your level to 1 to start using <#1324593527996285039>",
-            "Seems like you got no levels. get levels to chat in <#1324593527996285039> my guy",
-            "Bro, get some levels to chat in <#1324593527996285039>"
-        ],
-        "required_words": [],
-        "neglect_words": [],
-        "channel_to_respond": 1324581275276935283,
-        "delete_message": "False",
-        "emoji_to_react": [""],
-        "media": []
-    },
-    {
-        "prompt": [
-            "re:(?:[a-zA-Z]+|\\d+)?(?:<:point_trade:\\d{19}>|👉)(?:[a-zA-Z]+|\\d+)?"
-
-        ],
-        "response": [
-             "Don't trade in <#1324581275276935283> Use <#1324593527996285039> ",
-             "Trading is not allowed in <#1324581275276935283>. Use <#1324593527996285039>",
-             "Hey!.  don't trade here.  Use <#1324593527996285039>"
-        ],
-        "required_words": [],
-        "neglect_words": [],
-        "channel_to_respond": 1324581275276935283,
-        "delete_message": "True",
-        "emoji_to_react": [""],
-        "media": []
-    },
-
-    {
-      "prompt": [
-        "(?i)(?=.*\\b(trial|raid|service)s?\\b)(?=.*\\b(payment|pay|paid)\\b)(?=.*\\b(vouch|voucher|proof)\\b)(?=.*(\\d{1,2}-\\d{1,2}|normal raids|advanced raids))"
-      ],
-      "response": [
-        "Service providers make sure to use <#1324748584054292541> or <#1324749521804333137>,
-        "You should not promote your service in <#1324581275276935283>. use <#1324748584054292541> or <#1324749521804333137> ",
-        "Not allowed to promote your service here use <#1324748584054292541> or <#1324749521804333137>"
-      ],
-      "delete_message": "True"
-    }
+  {
+    "prompt": [
+      "re:\\b(?:can'?t|cannot|can\\s*not|am\\s+unable\\s+to|won'?t\\s+be\\s+able\\s+to|unable\\s+to|fail(?:ed|ing)?\\s+to|not\\s+able\\s+to)\\s+(?:(?:access|acess)\\s+)?(?:trade|trading|send(?:\\s+\\w+){0,5}?\\s+message(?:s)?)\\b"
+    ],
+    "response": [
+      "Get your level to 1 to start using <#1324593527996285039>",
+      "Seems like you got no levels. get levels to chat in <#1324593527996285039> my guy",
+      "Bro, get some levels to chat in <#1324593527996285039>"
+    ],
+    "required_words": [],
+    "neglect_words": [],
+    "channel_to_respond": 1324581275276935283,
+    "delete_message": "False",
+    "emoji_to_react": [""],
+    "media": []
+  },
+  {
+    "prompt": [
+      "re:(?:[a-zA-Z]+|\\d+)?(?:<:point_trade:\\d{19}>|👉)(?:[a-zA-Z]+|\\d+)?"
+    ],
+    "response": [
+      "Don't trade in <#1324581275276935283> Use <#1324593527996285039>",
+      "Trading is not allowed in <#1324581275276935283>. Use <#1324593527996285039>",
+      "Hey!.  don't trade here.  Use <#1324593527996285039>"
+    ],
+    "required_words": [],
+    "neglect_words": [],
+    "channel_to_respond": 1324581275276935283,
+    "delete_message": "True",
+    "emoji_to_react": [""],
+    "media": []
+  },
+  {
+    "prompt": [
+      "(?i)(?=.*\\b(trial|raid|service)s?\\b)(?=.*\\b(payment|pay|paid)\\b)(?=.*\\b(vouch|voucher|proof)\\b)(?=.*(\\d{1,2}-\\d{1,2}|normal raids|advanced raids))"
+    ],
+    "response": [
+      "Service providers make sure to use <#1324748584054292541> or <#1324749521804333137>",
+      "You should not promote your service in <#1324581275276935283>. use <#1324748584054292541> or <#1324749521804333137>",
+      "Not allowed to promote your service here use <#1324748584054292541> or <#1324749521804333137>"
+    ],
+    "delete_message": "True"
+  }
 ]
