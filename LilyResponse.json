@@ -45,5 +45,20 @@
     "delete_message": "True",
     "emoji_to_react": [""],
     "media": []
+   },
+
+  {
+    "prompt": [
+      "Hii"
+    ],
+    "response": [
+      "<hasrole 1356187197526638693> Yoo hello ? Hello hii"
+    ],
+    "required_words": [],
+    "neglect_words": [],
+    "channel_to_respond": 1349753791704072313,
+    "delete_message": "False",
+    "emoji_to_react": [""],
+    "media": []
    }
 ]
