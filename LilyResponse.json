@@ -52,7 +52,7 @@
       "hii"
     ],
     "response": [
-      "<hasrole 1356187197526638693> Yoo hello ? Hello hii"
+      "{<hasrole 1356187197526638693> Yoo hello ? Hello hii}"
     ],
     "required_words": [],
     "neglect_words": [],
