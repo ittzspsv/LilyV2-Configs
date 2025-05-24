@@ -70,5 +70,22 @@
             ""
         ],
         "media": []
+    },
+
+    {
+        "prompt": [
+            "scammed", "me"
+        ],
+        "response": [
+            "Matched"
+        ],
+        "required_words": ["scammed"],
+        "neglect_words": ["not", "didn't"],
+        "channel_to_respond": 1324581275276935283,
+        "delete_message": "False",
+        "emoji_to_react": [
+            ""
+        ],
+        "media": []
     }
 ]
