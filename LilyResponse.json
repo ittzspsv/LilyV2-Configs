@@ -73,29 +73,14 @@
     "media": []
    }
 ]
-  {
-    "prompt": [
-      "dead chat"
-    ],
-    "response": [
-      " "ikr","yea lol","ikik" "
-    ],
-    "required_words": [],
-    "neglect_prompt": [
-      "dead"
-    ],
-    "response": [
-      " "ikr","yea lol","ikik" "
-    ],
-    "required_words": [],
-    "neglect_words": [],
-    "channel_to_respond": 1349753791704072313,
-    "delete_message": "False",
-    "emoji_to_react": ["😢"],
-    "media": []words": [],
-    "channel_to_respond": 1349753791704072313,
-    "delete_message": "False",
-    "emoji_to_react": [""],
-    "media": []
-   }
-]
+{
+  "prompt": ["dead chat"],
+  "response": ["ikr", "yea lol", "ikik"],
+  "required_words": [],
+  "neglect_prompt": ["dead"],
+  "neglect_words": [],
+  "channel_to_respond": 1349753791704072313,
+  "delete_message": false,
+  "emoji_to_react": ["😢"],
+  "media": []
+}
