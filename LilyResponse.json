@@ -78,7 +78,7 @@
         "required_words": ["dead", "chat"],
         "neglect_prompt": [""],
         "neglect_words": [],
-        "channel_to_respond": 1349753791704072313,
+        "channel_to_respond": 1324581275276935283,
         "delete_message": "False",
         "emoji_to_react": ["😢"],
         "media": []
