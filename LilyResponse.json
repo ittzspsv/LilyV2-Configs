@@ -70,24 +70,5 @@
             ""
         ],
         "media": []
-    },
-
-    {
-        "prompt": [
-            "scammed", "me"
-        ],
-        "response": [
-            "Create a support ticket in <#1325079304194756658> with proofs attached there and moderators will be down to help you!", 
-            "Please create a support ticket in <#1325079304194756658> and attach any relevant proof—our moderators will be happy to assist you!",
-            "Open a support ticket in <#1325079304194756658> and include any proof you have—our moderators will be ready to help you out!" 
-        ],
-        "required_words": ["scammed"],
-        "neglect_words": ["not", "didn't"],
-        "channel_to_respond": 1324581275276935283,
-        "delete_message": "False",
-        "emoji_to_react": [
-            ""
-        ],
-        "media": []
     }
 ]
