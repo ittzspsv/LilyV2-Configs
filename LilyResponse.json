@@ -47,7 +47,9 @@
             "Flagged"
         ],
         "required_words": [
-            "nigga"
+            "nigga",
+            "lily-syntax-any",
+            "nigger",
         ],
         "neglect_words": [],
         "channel_to_respond": 1370395716106588241,
