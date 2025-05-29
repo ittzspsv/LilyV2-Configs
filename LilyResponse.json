@@ -1,7 +1,7 @@
 {
 
     "lily-response-config" : {
-        "string_matching_influence" : 65
+        "string_matching_influence" : 70
     },
     
     "response-rules" : [
