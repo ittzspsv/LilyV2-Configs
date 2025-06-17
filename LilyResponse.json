@@ -8,6 +8,7 @@
         {
             "prompt": [
                 "re:(?:[a-zA-Z]+|\\d+)?(?:<:point_trade:\\d{19}>|👉)(?:[a-zA-Z]+|\\d+)?",
+                "re:(?:[a-zA-Z]+|\\d+)?(?:<:Trade_Emoji_Blox_Fruits:\\d{19}>|👉)(?:[a-zA-Z]+|\\d+)?",
                 "re:^(.*)❓(.*)$",
                 "re:(?i)\\btrading?\\b(?:\\s+\\w+){1,3}\\s+for\\s+\\w+"
             ],
