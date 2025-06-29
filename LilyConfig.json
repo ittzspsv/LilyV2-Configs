@@ -30,7 +30,7 @@
         "DeveloperRoles": [1381715636010618940],
         "OwnerRoles": [1381728367207907418],
         "BlacklistedRoles": [1381715681904558132]
-  }
+  },
 
   "GAGChannels" : {
       "seed_gear_stock_channel_id" : 1387001376269144116,
@@ -39,7 +39,7 @@
       "gag_value_calculator_channel_id" : 1349753791704072313,
       "gag_worl_channel_id" : 1387570155646746755,
       "weatherupdate_channel_id" : 1349753791704072313,
-  }
+  },
 
   "Guilds" : {
     "GAGGuildID" : 0
