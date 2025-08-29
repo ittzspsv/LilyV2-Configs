@@ -67,26 +67,6 @@
         },
         {
             "prompt": [
-                "goon"
-            ],
-            "response": [
-                "Flagged"
-            ],
-            "required_words": [
-                "goon"
-            ],
-            "neglect_words": [],
-            "channel_to_respond": [1324581275276935283, 1351194604514447411],
-            "delete_message": "True",
-            "emoji_to_react": [
-                ""
-            ],
-            "media": [],
-            "whitelist_roles" : []
-        },
-
-        {
-            "prompt": [
                 "rape"
             ],
             "response": [
