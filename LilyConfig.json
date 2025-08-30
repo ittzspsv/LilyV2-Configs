@@ -34,15 +34,15 @@
   },
 
   "GAGChannels": {
-    "seed_gear_stock_channel_id": 1411423426052096121,
-    "eggstock_channel_id": 1411451002141282454,
-    "cosmeticsstock_channel_id": 1387001376269144116,
-    "gag_value_calculator_channel_id": 1349753791704072313,
-    "weatherupdate_channel_id": 1411423479156441211,
-    "eventshop_channel_id": 1387570155646746755
+    "seed_gear_stock_channel_id": 0,
+    "eggstock_channel_id": 0,
+    "cosmeticsstock_channel_id": 0,
+    "gag_value_calculator_channel_id": 0,
+    "weatherupdate_channel_id": 0,
+    "eventshop_channel_id": 0
   },
 
   "Guilds": {
-    "GAGGuildID": 970643838047760384
+    "GAGGuildID": 0
   }
 }
