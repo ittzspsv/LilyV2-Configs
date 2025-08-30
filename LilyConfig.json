@@ -24,13 +24,13 @@
   ],
 
   "Roles": {
-      "StaffRoles" = [1360395431737036900],
-      "TrustedStaffRoles" = [1333444259033911306],
-      "StaffManagerRoles" = [1406660357757468846],
-      "DeveloperRoles" = [1351867043393044551],
-      "OwnerRoles" = [1324577057228980285, 1351867043393044551],
-      "MiddlemanRoles" = [1341082575183020063],
-      "BlacklistedRoles" = [1357492900195205130]
+      "StaffRoles" : [1360395431737036900],
+      "TrustedStaffRoles" : [1333444259033911306],
+      "StaffManagerRoles" : [1406660357757468846],
+      "DeveloperRoles" : [1351867043393044551],
+      "OwnerRoles" : [1324577057228980285, 1351867043393044551],
+      "MiddlemanRoles" : [1341082575183020063],
+      "BlacklistedRoles" : [1357492900195205130]
   },
 
   "GAGChannels": {
