@@ -1,0 +1,242 @@
+EMBED ""
+EMBED_COLOR "1e00ff"
+EMBED_THUMBNAIL "https://images-ext-1.discordapp.net/external/VlotamImiyjBdJkedsLFt-ZHZnelLG5UH0IJZ6LXi2M/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1196859481011798161/c441047664e3abb3346c3067d1a36b5b.png?format=webp&quality=lossless"
+__**This is a strictly CLASSIFIED document only available to Staff members**__  
+If you come across anyone leaking this document, please notify the Staff Manager.
+EMBED END
+
+EMBED ""
+EMBED_COLOR "1e00ff"
+__**Introduction**__  
+This document has been created in order to help the members of the Staff Team when applying sanctions.  
+You will find information about commands, ticket management, punishments, rules of conduct, and staff structure.  
+
+Click the buttons below to see that specific portion of the guide.
+EMBED END
+
+BUTTON NAMED "Commands Overview"
+EMBED "Commands Overview"
+EMBED_COLOR "ff9500"
+**__Commands Overview__**
+1. __Warning Command:__
+
+``[,warn [user id] Reason]``
+
+``[,removewarn <case id>]``
+
+``[,warnings user id]``
+
+``[,modlogs user id]``
+
+Issues a warning to a user. The reason for the warning should be provided after the user ID.
+
+2. __Timeout / Mute Command:__
+
+``[,mute [user id] (limit 1h, 6h, 1d, etc.) Reason]``
+
+Temporarily mutes or timeout  a user. The duration is flexible (e.g., 1 hour, 6 hours, 1 day) and a reason for the timeout is required.
+
+3. __Remove Timeout / Unmute Command:__
+``[?Removetimeout or ?rto/?unmute [user id] Reason]``
+
+Removes the timeout or unmutes the user, with an explanation for the action.
+
+3. __Ban Command:__
+``[?ban [user id] Reason]``
+
+Bans a user permanently with a given reason.
+
+4. __Unban Command:__
+``[?unban [user id] Reason]``
+
+Unbans a previously banned user with a reason for lifting the ban.
+
+__Additional Note:__
+Time-limited bans should only be used for temporary punishments, while normal bans (permanent) should be for more severe or long-term issues
+EMBED END
+
+BUTTON NAMED "Reports/giveaway ticket management."
+EMBED "Reports/giveaway ticket management."
+EMBED_COLOR "00ff40"
+# **__Reports/giveaway ticket management.__**
+1. __Greeting:__ Good day, [user]. How may I assist you today?
+
+2. __Inquire about the issue:__ Could you please provide more details regarding your request?
+
+3. __Address the ticket:__
+
+If it's a report, I will request evidence. Example: Please provide the required evidence to help us investigate.
+
+If it's a giveaway claim or buissness inquiry, I will redirect the ticket to the giveaway host/owner. Example: I will forward your ticket to the owner for your claim/inquiry.
+
+If it requires escalation, I will escalate the issue. Example: I will escalate this matter to a higher-level team member for further assistance.
+
+4. __Before closing:__ I hope I was able to assist you. Should you have any further questions, feel free to reach out. Have a great day!
+
+5. __Close the ticket__
+
+6. __Save Transcript:__ The transcript will be saved for record-keeping.
+
+7. __Delete the Ticket:__ The ticket will now be deleted.
+EMBED END
+
+BUTTON NAMED "Warning System and Bans"
+EMBED "Warning System and Bans"
+EMBED_COLOR "ffdd00"
+**__Warning System and Bans__**
+
+``1. Warning System (Minor Offenses)
+
+1st Warning: Verbal warning for a minor offense.
+
+2nd Warning: Logged warning for a minor offense.
+
+3rd Warning: Timeout for 8 hours (If flooding, spamming Swearing, timeout for 3 hours.)
+
+4th Warning: Timeout for 1 day.
+
+5th Warning: 3 to 7 days mute if continued Temporary.``
+
+
+**__Minor offenses includes:__**
+- Channel misuse. 
+- Spamming.
+- Flooding chat.
+- Swearing.
+- Minor NSFW content.
+- Toxicity.
+- Disrespecting staff.
+- Troll tickets.
+
+2. **__CROSS TRADING__**
+
+**Insta Ban**
+- Account for an account
+- Account for Blox Fruits
+- Roblox gift card for Blox Fruits
+
+**Mute (3d) the users for:**
+- Robux for Blox Fruits 
+- Petsim/Fisch/Other game items for Blox Fruits
+- Nitro for Blox Fruits
+
+3. **__Immediate Bans (Major Offenses)__**
+
+**The following offenses result in an immediate ban:**
+
+- Major NSFW content.
+
+- Racism. **[3 days Mute if continued ban]**
+
+- Raiding the server.
+
+- Scamming.
+
+- Sharing malicious links.
+
+- Doxxing (revealing private information).
+
+- Leaking private information.
+
+- Advertisement. **[ 3 days Mute if continued ban]**
+
+- Offering free in-game items (e.g., “DM for free perm kitsune”) Confirm first if the free distribution is potential scam before taking any action.
+
+**Actions should be taken promptly for these violations to maintain a safe environment.**
+
+4. **__Username and Profile Picture Moderation__**
+
+1. __Inappropriate Usernames:__
+
+If a user has an inappropriate username, please change it to 
+
+**"Name Moderated or username moderated."**
+
+For example, if a user’s username is offensive (e.g., "Fuck abc"), change it to -
+**"Name Moderated or username moderated."**
+
+**__Note:__** Usernames containing racist content will result in mute then ban from the server.
+
+2. __Inappropriate Profile Pictures:__
+
+If you come across a user with an inappropriate profile picture, such as one containing racism or NSFW (Not Safe For Work) content, they should be banned immediately.
+EMBED END
+
+BUTTON NAMED "Promotions and Demotions" ROW : 2 TYPE : SUCCESS
+EMBED "Promotions and Demotions"
+EMBED_COLOR "00aaff"
+**__Promotions and Demotions__**
+
+1. __Promotion__
+
+To be **considered for promotion** to a higher position, active participation within the server is required. **This includes** consistent moderation efforts and the ability to assist lower-ranking staff effectively when needed. The following are the current positions within the team:
+
+**__Owner__**
+The highest-ranking individual, responsible for the overall management of the server.
+
+**__Manager__**
+Oversees staff management and the community, ensuring smooth operations. 
+
+**__Deputy Head of staff__**
+Helps the Managers in activity checks, provide suggestions, etc.
+
+**__Administration__**
+Provides guidance to the team and assists the in daily activities.
+
+**__Senior Moderator__**
+An experienced moderator who mentors the Moderators and provides leadership in moderation tasks.
+
+**__Moderator__**
+Responsible for maintaining the community’s environment, ensuring it remains safe and welcoming for all members.
+
+**__Junior Moderator__**
+Staff members which showcased appreciable skills at Trial period and will be working as usual staff in the team. (Cannot handle appeal tickets.)
+
+**__Trial Moderator__**
+A staff member undergoing a trial period to assess their skills and compatibility with the team.
+
+2. __Demotion__
+
+**Demotions are determined** at the discretion of the Manager and Owner. **The decision is based on** your activity level, adherence to guidelines, and the responsible use of your powers. Misconduct, including the misuse of power or failure to follow protocol, may lead to demotion.
+
+**__Important Note:__** **The leaking of sensitive staff information or the misuse of authority can result in a demotion. If you observe any staff member engaging in such behavior, please report it immediately to Owner or managers via direct message or staff report.**
+EMBED END
+
+BUTTON NAMED "Staff Moderation Policy" ROW : 2 TYPE : DANGER
+EMBED "Staff Moderation Policy - 3 Strike System"
+EMBED_COLOR "ff0040"
+**__Staff Moderation Policy - 3-Strike System__**
+
+To maintain professionalism, trust, and accountability within our staff team, this 3-strike system outlines how staff conduct is monitored and enforced. This applies to all members of the moderation team _including managers and adminstration team_.
+
+**Strike System Overview**
+
+**Strike 1: __Verbal or Written Warning__**
+
+- Issued for minor infractions or first-time offenses (includes inactivity, moderation mistakes, behavior.)
+- Staff member receives a reminder of expectations and constructive feedback.
+- The warning is documented privately by the __Admin team.__
+
+**Strike 2: __Logged Strike__**
+
+- Issued after a repeat offense or a more serious one-time infraction. (includes inactivity, moderation mistakes, behavior, any sort of rule breaking.)
+- A formal meeting is required with __senior mod__ and above to address the behavior.
+- Strike is officially logged in staff records.
+
+**Strike 3: __Temporary Demotion or Removal__**
+
+- A third offense results in temporary removal from staff duties. (includes inactivity, moderation mistakes, behavior, repeated rule breaking.)
+- The staff member may request a talk with __Management team__ to discuss reinstatement, but this is not guaranteed.                                                        
+**Instant Demotion or Ban (Bypasses Strike System)**
+
+Certain severe actions result in immediate demotion or permanent removal from staff — no warnings or strikes required:
+
+- **Leaking confidential staff information**, including private channels, messages, logs, or internal decisions.
+- **Abuse of power**, such as banning users without valid cause, unjustified deletions, or role misuse.
+
+**__Additional Notes__**
+
+- Strikes **expire after 20 days** of consistent good conduct, unless otherwise specified.
+- All warnings, strikes, and removals are **documented by the __Admin team__** for transparency and record-keeping.
+- Staff members may **appeal any disciplinary action** through a formal review process with the __Management team.__
+EMBED END
